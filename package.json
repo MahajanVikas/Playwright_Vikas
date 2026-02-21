@@ -1,0 +1,11 @@
+{
+  "name": "playwright_vikas",
+  "version": "1.0.0",
+  "description": "Playwright examples for training",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
